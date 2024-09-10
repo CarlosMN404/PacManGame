@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_iniciar",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.21678,
+  "name":"Snd_iniciar",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_iniciar.wav",
+  "type":0,
+  "volume":1.0,
+}

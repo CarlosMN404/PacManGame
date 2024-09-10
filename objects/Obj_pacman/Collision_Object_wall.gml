@@ -1,0 +1,2 @@
+//choque
+speed = 0;
